@@ -11,4 +11,7 @@
     <string name="find_the_team_in_your_city_and_dominate_the_league">Find the team in your city, and dominate the league</string>
     <string name="get_started">Get Started</string>
     <string name="welcome_screen">Welcome Screen</string>
+    <string name="beginner">Beginner</string>
+    <string name="baller">Baller</string>
+    <string name="finish">Finish</string>
 </resources>
